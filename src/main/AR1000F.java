@@ -1,3 +1,5 @@
+package main;
+
 /**
  * Created by connorroset on 12/28/16.
  */
@@ -8,5 +10,6 @@ public class AR1000F {
     Paillier myPaillier = new Paillier();
     public static void main(String[] args) {
         System.out.println("Here we go!");
+        System.out.println("blap");
     }
 }
