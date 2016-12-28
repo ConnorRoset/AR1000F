@@ -4,4 +4,11 @@
 public class AES {
     public AES() {
     }
+
+    public void Encrypt(int data) {
+
+    }
+    public void Decrypt( int data){
+
+    }
 }

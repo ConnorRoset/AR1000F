@@ -4,4 +4,12 @@
 public class Paillier {
     public Paillier() {
     }
+
+    public void Encrypt(int data) {
+
+    }
+
+    public void Decrypt(int data) {
+
+    }
 }
